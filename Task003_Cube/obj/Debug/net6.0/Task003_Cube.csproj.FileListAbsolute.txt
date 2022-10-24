@@ -1,0 +1,15 @@
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar3\Task003_Cube\bin\Debug\net6.0\Task003_Cube.exe
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar3\Task003_Cube\bin\Debug\net6.0\Task003_Cube.deps.json
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar3\Task003_Cube\bin\Debug\net6.0\Task003_Cube.runtimeconfig.json
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar3\Task003_Cube\bin\Debug\net6.0\Task003_Cube.dll
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar3\Task003_Cube\bin\Debug\net6.0\Task003_Cube.pdb
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar3\Task003_Cube\obj\Debug\net6.0\Task003_Cube.csproj.AssemblyReference.cache
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar3\Task003_Cube\obj\Debug\net6.0\Task003_Cube.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar3\Task003_Cube\obj\Debug\net6.0\Task003_Cube.AssemblyInfoInputs.cache
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar3\Task003_Cube\obj\Debug\net6.0\Task003_Cube.AssemblyInfo.cs
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar3\Task003_Cube\obj\Debug\net6.0\Task003_Cube.csproj.CoreCompileInputs.cache
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar3\Task003_Cube\obj\Debug\net6.0\Task003_Cube.dll
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar3\Task003_Cube\obj\Debug\net6.0\refint\Task003_Cube.dll
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar3\Task003_Cube\obj\Debug\net6.0\Task003_Cube.pdb
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar3\Task003_Cube\obj\Debug\net6.0\Task003_Cube.genruntimeconfig.cache
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar3\Task003_Cube\obj\Debug\net6.0\ref\Task003_Cube.dll
