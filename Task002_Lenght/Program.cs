@@ -12,7 +12,7 @@ System.Console.WriteLine("Введите координаты первой то�
 int x1 = Prompt("x1: ");
 int y1 = Prompt("y1: ");
 int z1 = Prompt("z1: ");
-System.Console.WriteLine("Введите координаты первой точки");
+System.Console.WriteLine("Введите координаты второй точки");
 int x2 = Prompt("x2: ");
 int y2 = Prompt("y2: ");
 int z2 = Prompt("z2: ");
