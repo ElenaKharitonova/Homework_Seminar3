@@ -1,0 +1,15 @@
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar3\Task002_Lenght\bin\Debug\net6.0\Task002_Lenght.exe
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar3\Task002_Lenght\bin\Debug\net6.0\Task002_Lenght.deps.json
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar3\Task002_Lenght\bin\Debug\net6.0\Task002_Lenght.runtimeconfig.json
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar3\Task002_Lenght\bin\Debug\net6.0\Task002_Lenght.dll
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar3\Task002_Lenght\bin\Debug\net6.0\Task002_Lenght.pdb
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar3\Task002_Lenght\obj\Debug\net6.0\Task002_Lenght.csproj.AssemblyReference.cache
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar3\Task002_Lenght\obj\Debug\net6.0\Task002_Lenght.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar3\Task002_Lenght\obj\Debug\net6.0\Task002_Lenght.AssemblyInfoInputs.cache
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar3\Task002_Lenght\obj\Debug\net6.0\Task002_Lenght.AssemblyInfo.cs
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar3\Task002_Lenght\obj\Debug\net6.0\Task002_Lenght.csproj.CoreCompileInputs.cache
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar3\Task002_Lenght\obj\Debug\net6.0\Task002_Lenght.dll
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar3\Task002_Lenght\obj\Debug\net6.0\refint\Task002_Lenght.dll
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar3\Task002_Lenght\obj\Debug\net6.0\Task002_Lenght.pdb
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar3\Task002_Lenght\obj\Debug\net6.0\Task002_Lenght.genruntimeconfig.cache
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar3\Task002_Lenght\obj\Debug\net6.0\ref\Task002_Lenght.dll
